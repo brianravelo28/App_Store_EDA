@@ -1,0 +1,79 @@
+Apple Genres -
+
+Book
+Business
+Developer Tools
+Education
+Entertainment
+Finance
+Food & Drink
+Games
+Graphics & Design
+Health & Fitness
+Lifestyle
+Magazines & Newspapers
+Medical
+Music
+Navigation
+News
+Photo & Video
+Productivity
+Reference - Book
+Shopping
+Social Networking
+Sports
+Stickers
+Travel
+Utilities
+Weather
+
+Google - 
+
+Action - Games
+Adventure - Games
+Arcade - Games
+Art & Design - Graphics & Design
+Auto & Vehicles - Shopping
+Beauty - Lifestyle
+Board - Games
+Books & Reference - Book
+Business
+Card - Games
+Casino - Games
+Casual - Games
+Comics - Book
+Communication - Social Networking
+Dating - Social Networking
+Education 
+Educaional - Education
+Entertainment
+Events - Social Networking
+Finance
+Food & Drink
+Health & Fitness
+House & Home - Lifestyle
+Libraries & Demo - Book
+Lifestyle 
+Maps & Navigation - Navigation
+Medical
+Music
+Music & Audio - Music
+News & Magazines - Magazines & Newspapers
+Parenting - Lifestyle
+Personalization - Lifestyle
+Photography - Photo & Video
+Productivity
+Puzzle - Games
+Racing - Games
+Role Playing - Games
+Shopping
+Simulation - Games
+Social - Social Networking
+Sports - Games
+Strategy - Games
+Tools - Utilities
+Travel & Local - Travel
+Trivia - Games
+Video Players & Editors - Photo & Video
+Weather
+Word - Games
