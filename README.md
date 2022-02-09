@@ -1,10 +1,10 @@
 # App_Store_EDA
 
-# The data was collected and provided by:
+The data was collected and provided by:
 
-# Gautham Parak &
+Gautham Parak & Jitin Koshy
 
-# Jitin Koshy
+Here are the links to their githubs for their datasets if you want to download them yourself:
 
-# Here are the links to their githubs for their datasets if you want to download them yourself
+
 
